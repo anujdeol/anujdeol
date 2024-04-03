@@ -3,11 +3,9 @@
 
 ## 📩 Visit my portfolio: [Here](https://my-portfolio-beta-ten-96.vercel.app/)
 
-
-
 ## 📩 Contact: ANUJDEOL007@GMAIL.COM
 
-## 📄 Resume: [Download Resume](https://drive.google.com/file/d/11ey1nJKUUSXRk6hsVd_sk859iPfoa1g7/view?usp=drive_link)
+## 📄 Resume: [Download](https://drive.google.com/file/d/1yKu6F_QsV2_hKSLSZs21aKCW-Bz9iD_S/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
